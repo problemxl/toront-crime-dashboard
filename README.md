@@ -1,6 +1,8 @@
 
 # Toronto Crime Statistics
 
+[Dashboard](https://public.tableau.com/app/profile/mark.franciscus/viz/TorontoCrimeStatistics/TorontoCrimeStatistics)
+
 ## Overview
 
 The Toronto Crime Statistics Dashboard provides a comprehensive visual representation of publicly available crime data in the city. This interactive dashboard leverages Tableau to offer users a user-friendly and insightful exploration of crime trends, helping residents, policymakers, and law enforcement agencies understand and address public safety concerns.
